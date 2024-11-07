@@ -1,0 +1,22 @@
+body{
+	color: green;
+font-family: Arial;
+background-color:skyblue ; 
+	}
+p {text-align: left;}
+h1{text-align: center;
+   color: red;
+}
+.first{ text-align:left; }
+h2{text-align: center;
+   color: yellow;
+}
+h3{text-align: center;
+   color: orange;
+}
+h4{text-align: center;
+   color: hotpink;
+}
+h5{text-align: center;
+   color: purple;
+}
