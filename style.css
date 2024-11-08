@@ -20,3 +20,13 @@ h4{text-align: center;
 h5{text-align: center;
    color: purple;
 }
+table,th,td{
+   border:1px solid black;
+            width: 100%;
+}
+nav{text-align: right;
+     justify-content: right;
+     padding:0 ;
+     margin: 0;
+     font font-weight: bold;
+}
